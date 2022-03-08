@@ -11,4 +11,6 @@ The Aim of this Analysis is to study and present current Bike sharing operation 
 
 WIP.. to be updated soon
 
+logo: /assets/img/bikesharing.png
+
 
